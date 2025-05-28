@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\bin\Debug\Clase4 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica4-Veliz-Florencia\Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg\obj\Debug\Clase4 _MetolodologiasDeProg.pdb

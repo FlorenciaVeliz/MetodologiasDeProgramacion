@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4 _MetolodologiasDeProg", "Clase4 _MetolodologiasDeProg\Clase4 _MetolodologiasDeProg.csproj", "{C05C50A7-70C4-468A-BE29-0E4EF79BCA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05C50A7-70C4-468A-BE29-0E4EF79BCA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05C50A7-70C4-468A-BE29-0E4EF79BCA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05C50A7-70C4-468A-BE29-0E4EF79BCA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05C50A7-70C4-468A-BE29-0E4EF79BCA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
