@@ -1,0 +1,18 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase2 _MetolodologiasDeProg\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Practica 2 - Veliz, Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\bin\Debug\Clase2 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica2-Veliz-Florencia\Clase2 _MetolodologiasDeProg\obj\Debug\Clase2 _MetolodologiasDeProg.pdb

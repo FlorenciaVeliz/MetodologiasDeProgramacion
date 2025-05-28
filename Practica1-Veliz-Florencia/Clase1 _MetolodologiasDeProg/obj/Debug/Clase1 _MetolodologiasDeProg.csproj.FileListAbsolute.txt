@@ -1,0 +1,24 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase1 _MetolodologiasDeProg\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Metodologías de Programación\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\Practica 1 - Veliz, Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\bin\Debug\Clase1 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica1-Veliz-Florencia\Clase1 _MetolodologiasDeProg\obj\Debug\Clase1 _MetolodologiasDeProg.pdb

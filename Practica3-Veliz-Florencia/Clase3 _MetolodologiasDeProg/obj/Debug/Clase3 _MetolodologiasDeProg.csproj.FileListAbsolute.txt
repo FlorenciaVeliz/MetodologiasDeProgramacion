@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Clase3 _MetolodologiasDeProg\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.exe.config
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\bin\Debug\Clase3 _MetolodologiasDeProg.pdb
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.exe
+C:\Users\usuario\Desktop\MetodologiasDeProgramacion\Practica3-Veliz-Florencia\Clase3 _MetolodologiasDeProg\obj\Debug\Clase3 _MetolodologiasDeProg.pdb
